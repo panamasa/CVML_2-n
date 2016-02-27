@@ -11,10 +11,10 @@
 3. [機械学習と実験結果評価](#ml)
 4. [コンピュータビジョンとパターン認識](#cvpr)
 
-### <a name ="wu">第1部 準備運動 (Warming-Up)
+### <a name ="wu">[第1部 準備運動 (Warming-Up)](1_warming-up/0_warming-up.md)
 簡単なプログラミングの練習とUNIXコマンドの基礎練習問題です．
 
-### <a name ="cv">第2部 コンピュータビジョン (Computer Vision)
+### <a name ="cv">[第2部 コンピュータビジョン (Computer Vision)](2_computer_vision/README.md)
 画像の扱い方，画像から情報を取り出す手法の基礎練習問題です．
 
 ### <a name ="ml">第3部 機械学習と実験結果評価 (Machine Learning)
