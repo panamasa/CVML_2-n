@@ -7,7 +7,7 @@ __キーワード: JPEG, BMP, PNG, RGB, HSV, ヒストグラム, Pillow, scikit-
 - [画像の書き出し](#imsave)
 
 ## <a name ="imread">画像の読み込み
-imageディレクトリにあるlena.jpgを読み込み，その画像サイズとカラーチャンネル数を取得せよ．
+imageディレクトリにあるsample.tifを読み込み，その画像サイズとカラーチャンネル数を取得せよ．
 
 ## <a name ="imsave">画像の書き出し
-読み込んだlena.jpgをJPEG形式（.jpg）とPNG形式（.png）形式とBMP形式（.bmp）で保存し，結果を確認せよ．
+読み込んだsample.jpgをJPEG形式（.jpg）とPNG形式（.png）形式とBMP形式（.bmp）で保存し，結果を確認せよ．
