@@ -5,9 +5,13 @@ __キーワード: JPEG, BMP, PNG, RGB, HSV, ヒストグラム, Pillow, scikit-
 
 - [2-1-1 画像の読み込み](#imread)
 - [2-1-2 画像の書き出し](#imsave)
+- [2-1-3 ヒストグラムを作る](#hist)
 
 ## <a name ="imread">2-1-1 画像の読み込み
 imageディレクトリにあるsample.tifを読み込み，その画像サイズとカラーチャンネル数を取得せよ．
 
 ## <a name ="imsave">2-1-2 画像の書き出し
 読み込んだsample.jpgをJPEG形式（.jpg）とPNG形式（.png）形式とBMP形式（.bmp）で保存し，結果を確認せよ．
+
+## <a name ="hist">2-1-3 ヒストグラムを作る
+hoge.
