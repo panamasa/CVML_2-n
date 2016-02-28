@@ -23,6 +23,9 @@
 プログラムで画像を読み込む方法，保存する方法，またその形式による違い，色空間に関する練習問題です．  
 - [画像の読み込み](1_io_color/io_color.md#imread)
 - [画像の書き出し](1_io_color/io_color.md#imsave)
+- [グレースケール画像を作る](1_io_color/io_color.md#gray)
+- [ヒストグラムを作る](1_io_color/io_color.md#hist)
+- [HSV色空間](1_io_color/io_color.md#hsv)
 
 __キーワード: JPEG, BMP, PNG, RGB, HSV, ヒストグラム, Pillow, scikit-image, OpenCV, dlib__
 
