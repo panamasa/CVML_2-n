@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# 問題2-1-4 HSV色空間
+# 問題2-1-4 ヒストグラムを作る
 # 前問で作成したグレースケール画像のヒストグラムをプロットし，確認せよ．　　
 # Pillowでの解答例
 # Author: Daiki SHIMADA a.k.a kantoku
