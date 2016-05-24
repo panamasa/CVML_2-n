@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# 問題2-2-? 疑似カラー
+# 問題2-2-6 疑似カラー
 # imageディレクトリにあるgray_sample.pngを疑似カラーで表現された画像を作成せよ．
 # Pillowでの解答例
 # Author: Daiki SHIMADA a.k.a kantoku
